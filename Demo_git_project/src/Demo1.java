@@ -11,4 +11,9 @@ public class Demo1 {
 		{
 		System.out.println("GitHub");
 	}
+	
+	public void m2()
+	{
+		System.out.println("cjc Testing");
+	}
 }
