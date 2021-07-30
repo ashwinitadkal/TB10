@@ -16,4 +16,8 @@ public class Demo1 {
 	{
 		System.out.println("cjc Testing");
 	}
+	
+	public void m3()
+	{
+		System.out.println("Karvenagar");
 }
