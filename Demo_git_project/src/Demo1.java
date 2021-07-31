@@ -20,5 +20,6 @@ public class Demo1 {
 	public void m3()
 	{
 		System.out.println("Karvenagar");
+		System.out.println("pune");
 }
 }
